@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Services.Implementations.TaskService" CodeBehind="TaskService.svc.cs" Factory="Server.Configuration.StructureMapServiceHostFactory" %>
